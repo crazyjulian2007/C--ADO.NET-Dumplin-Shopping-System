@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C#course\MedForms\MedForms\bin\Debug\MedForms.exe.config
+C:\Users\user\Desktop\C#course\MedForms\MedForms\bin\Debug\MedForms.exe
+C:\Users\user\Desktop\C#course\MedForms\MedForms\bin\Debug\MedForms.pdb
+C:\Users\user\Desktop\C#course\MedForms\MedForms\obj\Debug\MedForms.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#course\MedForms\MedForms\obj\Debug\MedForms.Form1.resources
+C:\Users\user\Desktop\C#course\MedForms\MedForms\obj\Debug\MedForms.Properties.Resources.resources
+C:\Users\user\Desktop\C#course\MedForms\MedForms\obj\Debug\MedForms.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#course\MedForms\MedForms\obj\Debug\MedForms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#course\MedForms\MedForms\obj\Debug\MedForms.exe
+C:\Users\user\Desktop\C#course\MedForms\MedForms\obj\Debug\MedForms.pdb
+C:\Users\user\Desktop\C#course\MedForms\MedForms\obj\Debug\MedForms.Form2.resources
